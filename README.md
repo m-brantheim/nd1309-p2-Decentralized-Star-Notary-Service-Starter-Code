@@ -3,9 +3,13 @@
 
 ### Deployment info
 Truffle version: 5.4.3
+
 OpenZeppelin version: 2.3.0
+
 ERC-721 Token Name: Star token
+
 ERC-721 Token Symbol: STAR
+
 “Token Address” on the Rinkeby Network: 0x9ED2E55AEE2eD27815E9998824A60022f9C0c8a3
 
 ### ToDo
